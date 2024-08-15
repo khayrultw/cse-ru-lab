@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1543551719 source:/home/khayrul/workspace/graphics/simple-fractal/main.cpp
+	<iostream>
+	<GL/glew.h>
+	<complex>
+	"display.h"
+
+1543551727 /home/khayrul/workspace/graphics/simple-fractal/include/display.h
+	<SDL2/SDL.h>
+	<iostream>
+	<GL/glew.h>
+	<complex>
+
+1543551742 source:/home/khayrul/workspace/graphics/simple-fractal/src/display.cpp
+	"display.h"
+
